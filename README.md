@@ -20,7 +20,7 @@ Perfect for opening websites, answering questions, playing local audio, and runn
 ⚡ Ready-to-run examples: jarvis_main.py (voice assistant) & openaitest.py (console version).
 
 # 📁 Project Structure
-.
+
 ├── jarvis_main.py       # Main voice assistant  
 ├── openaitest.py        # Console test script  
 ├── config.py            # Stores your API key  
