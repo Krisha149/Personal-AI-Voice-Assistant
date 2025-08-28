@@ -1,9 +1,9 @@
-Jarvis A.I — Personal Voice Assistant 🤖✨
+# Jarvis A.I — Personal Voice Assistant 🤖✨
 
 A powerful, friendly, voice-driven personal assistant built with Python, Gemini (Google Generative AI), speech recognition, and TTS.
 Perfect for opening websites, answering questions, playing local audio, and running simple voice-driven automations — all with a warm Jarvis-style personality. 🚀🎧
 
-🔥 Features
+# 🔥 Features
 
 🎙️ Speech-to-Text (ASR) using speech_recognition.
 
@@ -19,7 +19,7 @@ Perfect for opening websites, answering questions, playing local audio, and runn
 
 ⚡ Ready-to-run examples: jarvis_main.py (voice assistant) & openaitest.py (console version).
 
-📁 Project Structure
+# 📁 Project Structure
 .
 ├── jarvis_main.py       # Main voice assistant  
 ├── openaitest.py        # Console test script  
@@ -28,7 +28,7 @@ Perfect for opening websites, answering questions, playing local audio, and runn
 ├── README.md            # Project documentation  
 └── .gitignore
 
-🛠️ Requirements
+# 🛠️ Requirements
 
 SpeechRecognition  
 pygame  
@@ -37,7 +37,7 @@ google-generativeai
 pyttsx3  
 pyaudio  
 
-🚀 Setup & Installation
+# 🚀 Setup & Installation
 
 1.Clone the repo
 
@@ -57,7 +57,7 @@ Or run the console test:
 
 python openaitest.py
 
-🧭 How to Use
+# 🧭 How to Use
 
 Start the assistant → It says: “Jarvis A.I ready to assist you”.
 
@@ -73,7 +73,7 @@ Speak commands like:
 
 📴 “Jarvis quit” / “Quit” → Shuts down gracefully.
 
-💡 Troubleshooting
+# 💡 Troubleshooting
 
 🎤 Microphone issues?
 
@@ -96,7 +96,7 @@ Verify API key in config.py.
 
 Check internet connection and API quota.
 
-🌟 Future Improvements
+# 🌟 Future Improvements
 
 🎤 Add wake-word detection (e.g., “Hey Jarvis”).
 
@@ -108,7 +108,7 @@ Check internet connection and API quota.
 
 ⚡ Enable streaming responses for faster replies.
 
-🔐 Security
+# 🔐 Security
 
 Never commit your API key.
 
